@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "541261119550",
+    "firebase_url": "https://k4afa-a8fea-default-rtdb.firebaseio.com",
+    "project_id": "k4afa-a8fea",
+    "storage_bucket": "k4afa-a8fea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541261119550:android:8d50bf0cd039e68b99916f",
+        "android_client_info": {
+          "package_name": "com.example.k4afa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWRXMVbWiqkkEU3w3utnpyZDU2TLn0FGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
